@@ -1,0 +1,6 @@
+* { padding: 0; margin: 0; box-sizing: border-box; font-family: "Roboto", sans-serif;}
+header{
+    width: 100px;
+    height: 100vh;
+    background-color: linear-gradient(280deg,#0abde3 80%, black 20%);
+}
